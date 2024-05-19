@@ -31,12 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![alt text](image.png)
 ### Output:
 
-
-### Name:
-### Register Number:
+![alt text](doorstopper.jpg)
+### Name:Selva kumar A
+### Register Number:212222110042
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
