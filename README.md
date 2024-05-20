@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![alt text](image.png)
-### Output:
+![image](https://github.com/Selvakumar525/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120643262/d8c310b0-21bd-44f8-ae5f-268be1f7d5c2)
 
-![alt text](doorstopper.jpg)
+### Output:
+![doorstopper](https://github.com/Selvakumar525/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120643262/f4451bf8-13cd-4931-ad33-0deff5020b60)
+
+
 ### Name:Selva kumar A
 ### Register Number:212222110042
 
